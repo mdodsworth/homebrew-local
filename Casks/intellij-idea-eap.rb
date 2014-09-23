@@ -1,8 +1,8 @@
 class IntellijIdeaEap < Cask
-  version '138.1980.1'
-  sha256 '884e36d3698b22580bb5269c1c29ef18c2fdd7b17c498676ae3a109d3ff67817'
+  version 'ideaIU-138.2210.3'
+  sha256 '8febe686b5dc354e0885466d75945dd37b699df21d118391ba4c2fd3df264487f' 
 
-  url 'http://download.jetbrains.com/idea/ideaIU-138.1980.1.dmg'
+  url 'http://download.jetbrains.com/idea/ideaIU-138.2210.3.dmg'
   homepage 'https://www.jetbrains.com/idea/index.html'
 
   link 'IntelliJ IDEA 14 EAP.app'
