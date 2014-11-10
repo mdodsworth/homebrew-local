@@ -1,6 +1,6 @@
 class IntellijIdeaEap < Cask
   version 'ideaIU-139.224'
-  sha256 '49ef8ac753287031ae3ed604bbfd7a19e46359b318ac581db0a6100fb5ae0beb'
+  sha256 '9695bedfe145d70010b853cc67d7dc07bf2768e38b5b9034d1f6a00b0b9a15a7'
 
   url 'http://download.jetbrains.com/idea/ideaIU-14.dmg'
   homepage 'https://www.jetbrains.com/idea/index.html'
