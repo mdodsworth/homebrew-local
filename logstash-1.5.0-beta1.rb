@@ -1,6 +1,6 @@
 require 'formula'
 
-class Logstash < Formula
+class Logstash150Beta1 < Formula
   homepage 'http://logstash.net/'
   url 'http://download.elasticsearch.org/logstash/logstash/logstash-1.5.0.beta1.tar.gz'
   sha1 '963086de61d418b2da4fab79a165e40c67fabded'
