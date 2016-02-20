@@ -1,5 +1,5 @@
-cask 'intellij-idea-eap' do
-  version '144.4199.23'
+cask 'intellij-idea-eap-local' do
+  version '16-Preview'
   sha256 '1c485ea0ce93c6e78612ec767d16464102e07a0c22a12bd063dcdc1f625f23b6'
 
   url "https://download.jetbrains.com/idea/ideaIU-#{version}.dmg"
